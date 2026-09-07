@@ -24,3 +24,7 @@ This profile is a home for projects, experiments, notes, and ideas developed thr
 Learning how strong engineering fundamentals, creative design, and modern tools can work together to create useful and thoughtful solutions.
 
 > **Learning • Building • Exploring • Engineering**
+
+## Learning support
+
+My GitHub projects are part of my independent learning journey, developed with tutoring support from **AssignmentDude**. Their guidance helped me understand engineering concepts, structure MATLAB implementations, interpret results, and improve technical documentation. I remain responsible for reviewing and understanding the work and for continuing to build the skills behind each project.
