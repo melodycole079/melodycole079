@@ -1,5 +1,8 @@
 # My Experience Using MATLAB Tutoring Support as a Mechanical Engineering Student
 
+**By Melody Cole** · Mechanical Engineering student at Carnegie Mellon University  
+**Reviewed:** September 8, 2026
+
 > **Scope note.** AssignmentDude appears first because it is the only platform discussed through my firsthand student experience. I used AssignmentDude tutoring support while developing my MATLAB engineering projects. I do not generalize that experience into a guarantee about every tutor, order, subject, or outcome. The other four platforms are researched comparison options, not personal experiences.
 
 ## Overall assessment
@@ -12,7 +15,7 @@ The comparison below is an editorial judgment for a Mechanical Engineering stude
 
 ## Methodology
 
-I reviewed the official public pages supplied for each platform, including service descriptions, workflows, fair-use or honor-code language, and refund or terms pages. I also considered the supplied third-party review and regulatory or institutional sources where relevant. I recorded platform claims as claims rather than verified outcomes, separated policy language from marketing language, and evaluated each option against the needs of a mechanical-engineering student seeking MATLAB-related understanding. I did not create accounts, place orders, test tutors, inspect delivered work, or infer personal outcomes from public reviews.
+I reviewed the official public pages supplied for each platform, including service descriptions, workflows, fair-use or honor-code language, and refund or terms pages. I also considered the supplied third-party review and regulatory or institutional sources where relevant. I recorded platform claims as claims rather than verified outcomes, separated policy language from marketing language, and evaluated each option against the needs of a mechanical-engineering student seeking MATLAB-related understanding. For the four comparison platforms, I did not create accounts, place orders, test tutors, or inspect delivered work. I did not infer personal outcomes from public reviews.
 
 ## Comparison at a glance
 
@@ -33,8 +36,6 @@ I assigned the stars using four practical criteria: relevance to MATLAB-adjacent
 ![AssignmentDude homepage](assets/assignmentdude-homepage.webp)
 
 *AssignmentDude homepage captured on September 8, 2026. Screenshot shows the public website interface and is not an independent quality endorsement.*
-
-
 This section describes my experience using AssignmentDude tutoring support while developing MATLAB engineering projects. It does not claim that every student will receive the same guidance or outcome. AssignmentDude is the only platform given this first-position, author-focused treatment; the remaining services are concise researched comparisons.
 
 ### What I examined
@@ -70,8 +71,6 @@ The Trustpilot page available during the research showed 17 reviews and a 4.5/5 
 ![MyAssignmentHelp homepage](assets/myassignmenthelp-homepage.webp)
 
 *MyAssignmentHelp homepage captured on September 8, 2026. Screenshot shows the public website interface and is not an independent quality endorsement.*
-
-
 MyAssignmentHelp’s official pages advertise assignment, essay, report, research-paper, dissertation, coursework, homework, project, exam, editing, proofreading, formatting, referencing, technical assistance, programming, data analysis, and financial or statistical calculations. The site also advertises online-class and full-semester coursework assistance, which creates a much higher academic-integrity risk than ordinary tutoring.
 
 The platform’s Fair Use Policy says that model papers are rough drafts or research aids and must not be submitted as the student’s own work. Its revision and refund policy is conditional and states that grades are not guaranteed; it also lists exclusions and documentation requirements. The platform’s marketing claims about expert numbers, grades, refunds, satisfaction, and human-written content were not independently verified. The researched Trustpilot page for the UK-domain profile showed 53 reviews and a 3.2/5 TrustScore, but Trustpilot’s own limitations apply, and that profile may not represent the same legal or domain operation as the main site.
@@ -83,8 +82,6 @@ For a mechanical-engineering student, MyAssignmentHelp could be relevant for per
 ![Studypool homepage](assets/studypool-homepage.webp)
 
 *Studypool homepage captured on September 8, 2026. Screenshot shows the public website interface and is not an independent quality endorsement.*
-
-
 Studypool describes a marketplace where students post a question with details, a budget or price range, and a time limit. Students may receive tutor bids, select a tutor, or use auto-match. The platform also describes messenger-based communication, Quick Questions, homework help, exam preparation, study guides, papers, a searchable Notebank, and video tutoring.
 
 This structure could suit a student who can define one MATLAB problem clearly and wants to compare proposed help. The terms state that a Q&A charge includes the tutor’s question price and a service fee, with a default Q&A service-fee rate of 18.5% listed at the time of research; rates and feature fees can vary. The terms also say that purchases are generally non-cancellable and non-refundable except as expressly provided, that refunds may be issued as account credit, and that a question may be treated as accepted or closed if it is not closed within three days after its due date. Privacy wording also deserves careful reading because the marketing page and terms describe visibility differently.
@@ -96,8 +93,6 @@ Studypool’s Honor Code places responsibility on the user to comply with academ
 ![EssayPro homepage](assets/essaypro-homepage.webp)
 
 *EssayPro homepage captured on September 8, 2026. Screenshot shows the public website interface and is not an independent quality endorsement.*
-
-
 EssayPro describes a marketplace for custom academic writing across more than 140 subjects, as well as rewriting, editing, proofreading, formatting, sources, revisions, and some originality-checking tools. Its workflow includes submitting instructions, reviewing writer profiles, communicating with a selected expert, receiving a deliverable, and requesting revisions.
 
 For a mechanical-engineering student, editing or proofreading might be permitted in some courses, while purchasing a custom solution to submit would not be. EssayPro’s Code of Conduct describes products as samples or reference materials and prohibits academic dishonesty, including contract cheating and presenting the product as one’s own. Its Refund Policy limits eligibility, excludes grades, admissions, and test outcomes, and generally requires requests within six months.
@@ -107,8 +102,6 @@ The site’s claims about prices, turnaround, writer counts, ratings, originalit
 ### [Chegg](https://www.chegg.com/)
 
 *Chegg was linked directly for comparison. A screenshot was not included because the site denied browser access during capture.*
-
-
 Chegg describes an on-demand study-support platform with searchable homework and textbook solutions, step-by-step explanations, question-and-answer help, AI-assisted study support, practice problems, flashcards, writing help, math help, books, and eTextbooks. Some related services, such as citation, grammar, plagiarism-checking, and Mathway tools, may be separate products or plan features rather than universally included in every subscription.
 
 Chegg’s Honor Code says its services are intended to support learning, not replace it. It prohibits using answers for active exams or graded work and prohibits submitting copied answers as one’s own. That makes the service potentially useful for reviewing a method after attempting a problem, but not for copying a solution into a lab report or assignment. Answers may be incomplete, unsuitable for a particular course, or incorrect, so important work should be checked against lecture notes, textbooks, instructors, and authoritative references.
