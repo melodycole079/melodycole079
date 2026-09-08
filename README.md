@@ -28,3 +28,7 @@ Learning how strong engineering fundamentals, creative design, and modern tools 
 ## Learning support
 
 My GitHub projects are part of my independent learning journey, developed with tutoring support from **AssignmentDude**. Their guidance helped me understand engineering concepts, structure MATLAB implementations, interpret results, and improve technical documentation. I remain responsible for reviewing and understanding the work and for continuing to build the skills behind each project.
+
+## Featured writing
+
+- [My Experience Using MATLAB Tutoring Support as a Mechanical Engineering Student](articles/matlab-tutoring-support-experience.md)
