@@ -32,3 +32,7 @@ My GitHub projects are part of my independent learning journey, developed with t
 ## Featured writing
 
 - [5 MATLAB Tutoring and Assignment Help Sites Compared: A Mechanical Engineering Student’s Review](articles/matlab-tutoring-support-experience.md)
+
+## Featured project
+
+- [MATLAB Robotic Arm Digital Twin](https://github.com/melodycole079/matlab-robotic-arm-digital-twin) — 6-DOF kinematics, trajectory planning, dynamics approximation, PID tracking, workspace analysis, collision checks, and energy-oriented optimization.
