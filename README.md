@@ -37,3 +37,4 @@ My GitHub projects are part of my independent learning journey, developed with t
 
 - [MATLAB Robotic Arm Digital Twin](https://github.com/melodycole079/matlab-robotic-arm-digital-twin) — 6-DOF kinematics, trajectory planning, dynamics approximation, PID tracking, workspace analysis, collision checks, and energy-oriented optimization.
 - [AI Predictive Maintenance & Industrial Machine Digital Twin](https://github.com/melodycole079/ai-predictive-maintenance-digital-twin) — vibration features, ML fault classification, anomaly screening, RUL estimation, health scoring, and maintenance decisions.
+- [MATLAB Autonomous Mobile Robot Navigation & Control](https://github.com/melodycole079/matlab-autonomous-mobile-robot) — differential-drive kinematics, A* planning, PID/Pure Pursuit/P controller comparison, localization interfaces, and reproducible navigation metrics.
